@@ -1,0 +1,7 @@
+streamlit
+datetime
+pandas
+numpy
+scikit-learn
+watchdog
+#-e . 
